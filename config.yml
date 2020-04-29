@@ -363,9 +363,9 @@ liveeditor: false
 #
 # Note: If you change any of these, all current users will automatically be
 #       logged off.
-cookies_use_remoteaddr: true
+cookies_use_remoteaddr: false
 cookies_use_browseragent: false
-cookies_use_httphost: true
+cookies_use_httphost: false
 
 # The length of time a user stays 'logged in'. Change to 0 to end the session
 # when the browser is closed.
