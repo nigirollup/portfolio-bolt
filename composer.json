@@ -4,10 +4,9 @@
     "type": "project",
     "license": "MIT",
     "require": {
-        "php": "~7.0.0",
+        "php": "~7.2.0",
         "bolt/bolt": "^3.5",
-        "passwordlib/passwordlib": "^1.0@beta",
-        "ext-intl": "*"
+        "passwordlib/passwordlib": "^1.0@beta"
     },
     "minimum-stability": "beta",
     "prefer-stable": true,
