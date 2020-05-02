@@ -276,6 +276,7 @@ ul.taches li:before {
 }
 
 .hover-home:hover {
+    width: 100%;
     background: rgba(0, 0, 0, 0.5);
 }
 
