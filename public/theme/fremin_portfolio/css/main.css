@@ -191,12 +191,12 @@ i {
 
 .container-page img.home-img {
     max-height: 600px;
-    width: auto;
+    width: 100%;
     border-radius: 7px;
 }
 
 .wrap {
-    max-width: 1280px;
+    max-width: 1280px;f
 }
 
 .presentation {
